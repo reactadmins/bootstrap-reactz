@@ -1,0 +1,5 @@
+body {
+    &[data-theme-direction="rtl"] {
+        direction: rtl;
+    }
+}
